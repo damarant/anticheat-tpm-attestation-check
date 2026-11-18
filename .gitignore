@@ -1,0 +1,14 @@
+# Log generati dallo script
+TPM-Verify_*.txt
+
+# File di sistema Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
